@@ -1,17 +1,17 @@
 {
     "ads": {"network":"applovin","url":"https://play.google.com/store/apps/dev?id=8210134400811493079"},
-    "reword": {"items":""},
+    "reword": {"items":"2/4"},
     
     "fan": {
-    "banner":"IMG_16_9_APP_INSTALL#1103439843731779_1103440660398364",
-    "inter":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-    "nativ":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-    "reword":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"},
+    "banner":"718561203126573_718564229792937",
+    "inter":"718561203126573_719113943071299",
+    "nativ":"718561203126573_719114533071240",
+    "reword":"718561203126573_719114843071209"},
     
     "applovin": {
-    "banner":"c1284f1da6845bf5",
-    "inter":"9add55d5abd50dbd",
-    "nativ":"437a17a875f4fb01",
-    "reword":"4f9942c8d398b450"}
+    "banner":"",
+    "inter":"",
+    "nativ":"",
+    "reword":""}
       
     }
