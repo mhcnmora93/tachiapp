@@ -1,6 +1,6 @@
 {
-    "ads": {"network":"fan","url":"https://play.google.com/store/apps/dev?id=8210134400811493079"},
-    "reword": {"items":"2/4"},
+    "ads": {"network":"applovin","url":"https://play.google.com/store/apps/dev?id=8210134400811493079"},
+    "reword": {"items":"3/5/7/11"},
     
     "fan": {
     "banner":"718561203126573_718564229792937",
@@ -9,9 +9,9 @@
     "reword":"718561203126573_719114843071209"},
     
     "applovin": {
-    "banner":"",
-    "inter":"",
-    "nativ":"",
-    "reword":""}
+    "banner":"c1284f1da6845bf5",
+    "inter":"9add55d5abd50dbd",
+    "nativ":"437a17a875f4fb01",
+    "reword":"4f9942c8d398b450"}
       
     }
